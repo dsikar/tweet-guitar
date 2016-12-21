@@ -1,4 +1,7 @@
-# Tweet Guitar machine learning hub 
+# Tweet Guitar - TODOs
 
-* Install scripts 
+* Split code into mechanical, embedded, cloud and app directories.
+
+
+
 
